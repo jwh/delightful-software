@@ -9,30 +9,30 @@ a list of delightful software (maybe), because I keep forgetting what things are
 (x) notes at the bottom
 
 ## Comms
- * [Synapse](https://github.com/matrix-org/synapse)
- * [Jitsi](https://jitsi.org)
+ * [Synapse](https://github.com/matrix-org/synapse) - Reference Matrix homeserver implementation
+ * [Jitsi](https://jitsi.org) - Self hosted Zoom (mostly)
 
 ## Proxies / Identity sign-on / Auth.
- * [Traefik](https://traefik.io)
- * [Pomerium](https://www.pomerium.io)
- * [Teleport](https://goteleport.com)
- * [shadow](https://github.com/imgk/shadow)
- * [Dex](https://github.com/dexidp/dex)
+ * [Traefik](https://traefik.io) - dynamically configurable reverse http/tcp proxy, service discovery etc
+ * [Pomerium](https://www.pomerium.io) - reverse proxy with identity sign on, SSO etc
+ * [Teleport](https://goteleport.com) - SSO ssh access control
+ * [shadow](https://github.com/imgk/shadow) - transparent socks et al proxy
+ * [Dex](https://github.com/dexidp/dex) - OIDC connector for LDAP, AD, etc
+
+## Containers / VMs
+ * [LXD](https://github.com/lxc/lxd) - Daemon built on LXC and QEMU with a delightful API.
 
 ## DNS
- * [Encrypted DNS server](https://github.com/jedisct1/encrypted-dns-server)
- * [doh-server](https://github.com/jedisct1/doh-server)
- * [CoreDNS](https://coredns.io/)
+ * [Encrypted DNS server](https://github.com/jedisct1/encrypted-dns-server) - what it says
+ * [doh-server](https://github.com/jedisct1/doh-server) - also what it says
+ * [CoreDNS](https://coredns.io/) - mostly k8s type stuff, but useful standalone
 
 ## TLS
- * [Lego](https://github.com/go-acme/lego)
- * [smallstep](https://github.com/smallstep/certificates)
+ * [Lego](https://github.com/go-acme/lego) - ACME client, supports a bunch of provider APIs
+ * [smallstep](https://github.com/smallstep/certificates) - CA management including an ACME server and SSH key auth
 
 ## Password stuff
  * [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) [1]
-
-## Languages
- * [Zig](https://github.com/ziglang/zig)
 
 ## Notes
  * [1] might suck
