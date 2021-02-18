@@ -18,6 +18,7 @@ a list of delightful software (maybe), because I keep forgetting what things are
  * [Teleport](https://goteleport.com) - SSO ssh access control
  * [shadow](https://github.com/imgk/shadow) - transparent socks et al proxy
  * [Dex](https://github.com/dexidp/dex) - OIDC connector for LDAP, AD, etc
+ * [Pritunl](https://pritunl.com) - Does a *lot* [2]
 
 ## Containers / VMs
  * [LXD](https://github.com/lxc/lxd) - Daemon built on LXC and QEMU with a delightful API.
@@ -36,3 +37,4 @@ a list of delightful software (maybe), because I keep forgetting what things are
 
 ## Notes
  * [1] might suck
+ * [2] not checked
