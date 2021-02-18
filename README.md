@@ -1,6 +1,11 @@
 # delightful-software
 a list of delightful software (maybe), because I keep forgetting what things are called. mostly vetted for idiocy and usefulness, perhaps you'll find it useful.
 
+# inclusion requirements:
+ * Generally needs to be in Go, C/C++ or Rust (in that order)
+ * Absolutely no Java or Node
+ * Actively maintained, serves a useful purpose other than "I like it"
+
 (x) notes at the bottom
 
 ## Comms
