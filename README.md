@@ -26,8 +26,9 @@ a list of delightful software (maybe), because I keep forgetting what things are
 
 ## DNS
  * [Encrypted DNS server](https://github.com/jedisct1/encrypted-dns-server) - what it says
- * [doh-server](https://github.com/jedisct1/doh-server) - also what it says
- * [CoreDNS](https://coredns.io/) - mostly k8s type stuff, but useful standalone
+ * [CoreDNS](https://coredns.io) - mostly k8s type stuff, but useful standalone
+ * [NextDNS](https://github.com/nextdns/nextdns) - 53 to DoH proxy
+ * [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - reference caching implementation
 
 ## TLS
  * [Lego](https://github.com/go-acme/lego) - ACME client, supports a bunch of provider APIs
