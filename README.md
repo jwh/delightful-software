@@ -14,6 +14,7 @@ a list of delightful software (maybe), because I keep forgetting what things are
 
 ## Proxies / Identity sign-on / Auth.
  * [Traefik](https://traefik.io) - dynamically configurable reverse http/tcp proxy, service discovery etc
+ * [Caddy](https://caddyserver.com) - fast webserver, etc
  * [Pomerium](https://www.pomerium.io) - reverse proxy with identity sign on, SSO etc
  * [Teleport](https://goteleport.com) - SSO ssh access control
  * [shadow](https://github.com/imgk/shadow) - transparent socks et al proxy
