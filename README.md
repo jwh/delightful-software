@@ -35,7 +35,7 @@ a list of delightful software (maybe), because I keep forgetting what things are
  * [smallstep](https://github.com/smallstep/certificates) - CA management including an ACME server and SSH key auth
 
 ## Password stuff
- * [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) [1]
+ * [vaultwarden](https://github.com/dani-garcia/vaultwarden) - terrible project, only supply docker (no build instructions whatsoever) and nightly rust toolchain, bitwarden is still a better choice
 
 ## Notes
  * [1] might suck
