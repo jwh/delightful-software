@@ -30,6 +30,7 @@ a list of delightful software (maybe), because I keep forgetting what things are
  * [CoreDNS](https://coredns.io) - mostly k8s type stuff, but useful standalone
  * [NextDNS](https://github.com/nextdns/nextdns) - 53 to DoH proxy
  * [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - reference caching implementation
+ * [AdguardHome](https://github.com/AdguardTeam/AdGuardHome) - filtering dns server, blocklists and such (like pi-hole but more useful)
 
 ## TLS
  * [Lego](https://github.com/go-acme/lego) - ACME client, supports a bunch of provider APIs
