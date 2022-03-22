@@ -26,10 +26,7 @@ a list of delightful software (maybe), because I keep forgetting what things are
  * [LXD](https://github.com/lxc/lxd) - Daemon built on LXC and QEMU with a delightful API.
 
 ## DNS
- * [Encrypted DNS server](https://github.com/jedisct1/encrypted-dns-server) - what it says
  * [CoreDNS](https://coredns.io) - mostly k8s type stuff, but useful standalone
- * [NextDNS](https://github.com/nextdns/nextdns) - 53 to DoH proxy
- * [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - reference caching implementation
  * [AdguardHome](https://github.com/AdguardTeam/AdGuardHome) - filtering dns server, blocklists and such (like pi-hole but more useful)
 
 ## TLS
